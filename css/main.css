@@ -1,0 +1,16 @@
+#neededinfo input {
+	margin: 0.5em ;
+}
+
+.container {
+	display: none;
+}
+
+.container div {
+	display: inline-block;
+	margin: 3em;
+}
+
+.diner {
+	display: inline-block;
+}
